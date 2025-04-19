@@ -1,4 +1,4 @@
-# Galeri Karakter Anime
+# Galeri 
 
 Sebuah halaman web sederhana yang menampilkan koleksi karakter anime dalam format kartu. Dibuat menggunakan HTML dan CSS.
 
@@ -35,3 +35,10 @@ Sebuah halaman web sederhana yang menampilkan koleksi karakter anime dalam forma
 ## Repositori
 
 Kode sumber dapat ditemukan di: [20230140239-table](https://github.com/fadd00/20230140239-table.git)
+
+ ## Hasil
+ 
+![Screenshot 2025-04-19 231745](https://github.com/user-attachments/assets/adb13144-0bce-4590-8014-125db2dd7ec4)
+
+
+
