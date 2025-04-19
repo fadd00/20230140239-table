@@ -1,17 +1,24 @@
-# Anime Character Gallery
+# Galeri Karakter Anime
 
-A simple responsive web page that displays a collection of anime characters in card format. Built using HTML and CSS.
+Sebuah halaman web sederhana yang menampilkan koleksi karakter anime dalam format kartu. Dibuat menggunakan HTML dan CSS.
 
-## Features
+## Informasi Pembuat
 
-- Responsive grid layout of character cards
-- Each card contains:
-  - Character image
-  - Basic character information (Name, Age, Origin)
-- Clean and modern design
-- Footer with GitHub repository link
+- Nama: Andhika Prima Hutama
+- NIM: 20230140239
+- Kelas: E
+- Mata Kuliah: Praktikum Pengembangan Web
 
-## Characters Featured
+## Fitur
+
+- Tampilan grid responsif untuk kartu karakter
+- Setiap kartu berisi:
+  - Gambar karakter
+  - Informasi dasar karakter (Nama, Umur, Asal)
+- Desain yang bersih dan modern
+- Footer dengan tautan ke repositori GitHub
+
+## Karakter yang Ditampilkan
 
 - Shinji Ikari (Evangelion)
 - Ram (Re:Zero)
@@ -20,15 +27,11 @@ A simple responsive web page that displays a collection of anime characters in c
 - Kazuma Satou (Konosuba)
 - Rei Ayanami (Evangelion)
 
-## Technologies Used
+## Teknologi yang Digunakan
 
 - HTML5
 - CSS3
 
-## Author
+## Repositori
 
-Created by [Fadd00](https://github.com/fadd00)
-
-## Repository
-
-Find the source code at: [20230140239-table](https://github.com/fadd00/20230140239-table.git)
+Kode sumber dapat ditemukan di: [20230140239-table](https://github.com/fadd00/20230140239-table.git)
